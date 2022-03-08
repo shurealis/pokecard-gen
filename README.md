@@ -10,3 +10,8 @@ https://tailwindcss.com/docs/installation
 ```
 npm run dev
 ```
+
+## PokeAPI Documentation
+```
+https://pokeapi.co/
+```
